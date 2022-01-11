@@ -15,7 +15,8 @@ public class Variables {
          *
          ** char         2 bytes     primitive               single character/letter/ASCII value ex 'f'
          ** String       varies      reference               a sequence of characters ex "Hello world!"
-         */
+         * 
+	*/
 
     public static void main(String[] args) {
 
