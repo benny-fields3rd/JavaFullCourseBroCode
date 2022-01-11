@@ -12,7 +12,7 @@ public class Car {
         // one way
         //String myString = make + "\n" + model + "\n" + color + "\n" + year;
 
-        // better way
+        // better way by using return
         return make + "\n" + model + "\n" + color + "\n" + year;
     }
 
