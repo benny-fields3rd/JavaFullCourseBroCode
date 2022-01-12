@@ -7,7 +7,7 @@ public class Arrays {
         // basic structure of array
         String[] cars = {"Camaro","Corvette","Tesla","BMW"};
         cars[0] = "Mustang";
-        System.out.println(cars[3]);
+        System.out.println(cars[3]); //BMW
 
         // additional/better way of creating an array allocating amount of elements needed and then storing values
         String[] automobiles = new String[3]; // displays BMW since it is in index 3
