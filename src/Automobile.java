@@ -1,4 +1,4 @@
-public class Automobile {
+public class Automobile { // uses ObjectPassing.java
 
     // declare name
     String name;

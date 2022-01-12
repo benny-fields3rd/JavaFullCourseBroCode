@@ -1,4 +1,4 @@
-public class ObjectPassing {
+public class ObjectPassing { // uses both Garage.java and Automobile.java
 
     public static void main(String[] args) {
 

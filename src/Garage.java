@@ -1,4 +1,4 @@
-public class Garage {
+public class Garage { // uses ObjectPassing.java
 
     // create park method for the Garage class
     void park(Automobile automobile) { // can be named whatever
