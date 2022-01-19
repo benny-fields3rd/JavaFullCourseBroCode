@@ -17,7 +17,7 @@ public class JavaBorderLayout {
         frame.setSize(500,500);
         // change layout manager to border layout
         frame.setLayout(new BorderLayout(10,10)); // send in margins for width and length
-        frame.setVisible(true);
+
 
         JPanel panel1 = new JPanel();
         JPanel panel2 = new JPanel();
@@ -74,6 +74,8 @@ public class JavaBorderLayout {
         frame.add(panel3, BorderLayout.EAST);
         frame.add(panel4, BorderLayout.WEST);
         frame.add(panel5, BorderLayout.CENTER);
+
+        frame.setVisible(true);
 
     }
 
