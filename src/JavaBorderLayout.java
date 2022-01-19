@@ -1,5 +1,3 @@
-import package1.B;
-
 import javax.swing.*;
 import java.awt.*;
 
