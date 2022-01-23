@@ -21,12 +21,12 @@ public class MyFrameComboBoxes extends JFrame implements ActionListener {
 
         //comboBox.setEditable(true);
         //System.out.println(comboBox.getItemCount());
-        //comboBox.addItem("horse");
+        comboBox.addItem("horse");
         //comboBox.insertItemAt("pig", 0);
-        //comboBox.setSelectedIndex(0);
+        comboBox.setSelectedIndex(0);
         //comboBox.removeItem("cat");
         //comboBox.removeItemAt(0);
-        comboBox.removeAllItems();
+        //comboBox.removeAllItems();
 
         this.add(comboBox);
         this.pack();
