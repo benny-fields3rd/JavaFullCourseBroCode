@@ -12,5 +12,4 @@ public class KeyBinding {
         Game game = new Game();
 
     }
-
 }
