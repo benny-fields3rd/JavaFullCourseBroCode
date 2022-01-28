@@ -52,7 +52,6 @@ public class Game {
     }
 
     public class UpAction extends AbstractAction{
-
         @Override
         public void actionPerformed(ActionEvent e) {
             label.setLocation(label.getX(), label.getY()-10); // move label up by 10 pixels
@@ -60,7 +59,6 @@ public class Game {
     }
 
     public class DownAction extends AbstractAction{
-
         @Override
         public void actionPerformed(ActionEvent e) {
             label.setLocation(label.getX(), label.getY()+10); // move label up by 10 pixels
@@ -68,7 +66,6 @@ public class Game {
     }
 
     public class LeftAction extends AbstractAction{
-
         @Override
         public void actionPerformed(ActionEvent e) {
             label.setLocation(label.getX()-10, label.getY()); // move label up by 10 pixels
@@ -76,7 +73,6 @@ public class Game {
     }
 
     public class RightAction extends AbstractAction{
-
         @Override
         public void actionPerformed(ActionEvent e) {
             label.setLocation(label.getX()+10, label.getY()); // move label up by 10 pixels
