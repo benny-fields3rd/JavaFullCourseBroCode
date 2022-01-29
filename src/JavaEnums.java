@@ -1,4 +1,5 @@
 // you can create enum here or in another file
+/*
 enum Planet{ // values are called constants
     MERCURY(1),
     VENUS(2),
@@ -12,7 +13,7 @@ enum Planet{ // values are called constants
 
     int number;
 
-    Planet()
+    Planet();
 }
 
 
@@ -41,5 +42,8 @@ public class JavaEnums {
                 System.out.println("You cannot live here.....yet.");
                 break;
         }
+
+
     }
 }
+*/
