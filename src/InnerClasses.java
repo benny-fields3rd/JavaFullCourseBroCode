@@ -1,4 +1,4 @@
-public class InnerClasses {
+public class InnerClasses { // goes with Outside.java
 
     public static void main(String[] args) {
 
