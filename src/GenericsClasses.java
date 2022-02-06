@@ -6,7 +6,7 @@ public class GenericsClasses {
     public static void main(String[] args) {
 
         //bounded types = 	you can create the objects of a generic class to have data
-        //					of specific derived types ex.Number
+        //					of specific derived types ex. Number
 
         MyGenericClass<Integer, Integer> myInt = new MyGenericClass<>(1, 9);
         MyGenericClass<Double, Double> myDouble = new MyGenericClass<>(3.14, 1.01);
