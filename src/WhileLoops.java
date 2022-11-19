@@ -4,7 +4,7 @@ public class WhileLoops {
 
     public static void main(String[] args) {
 
-        // while loop = executes a block of code as long as it's condition remains true yes and no
+        // while loop = executes a block of code as long as it's condition remains true
         // basically, it will continue to run until the condition is true
         Scanner scanner = new Scanner(System.in);
         String name = "";
